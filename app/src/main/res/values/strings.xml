@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Color Description</string>
+    <string name="button_find_description">Определить Цвет</string>
+    <string name="spinner_contentDescription">Список</string>
+
+    <string-array name="color">
+        <item>RED</item>
+        <item>WHITE</item>
+        <item>BLACK</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>RED COLOR choice</item>
+        <item>WHITE COLOR choice</item>
+        <item>BLACK COLOR choice</item>
+        <item>BLUE COLOR choice</item>
+        <item>GREEN COLOR choice</item>
+    </string-array>
+</resources>
